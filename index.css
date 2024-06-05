@@ -2,7 +2,19 @@
 @import url("/node_modules/reveal.js/dist/theme/black.css");
 @import url("/node_modules/reveal.js/plugin/highlight/monokai.css");
 
+:root {
+    /* Overrides for reveal.js */
+    --r-main-font: Helvetica Neue, sans-serif;
+    --r-heading-font: Helvetica Neue, sans-serif;
+    --r-heading-font-weight: 700;
+    --r-heading-text-transform: none;
+}
+
 iframe {
     aspect-ratio: 16 / 9;
     width: 100%;
+}
+
+sup {
+    color: var(--r-link-color);
 }
