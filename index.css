@@ -1,6 +1,6 @@
-@import url("/node_modules/reveal.js/dist/reveal.css");
-@import url("/node_modules/reveal.js/dist/theme/black.css");
-@import url("/node_modules/reveal.js/plugin/highlight/monokai.css");
+@import url("./node_modules/reveal.js/dist/reveal.css");
+@import url("./node_modules/reveal.js/dist/theme/black.css");
+@import url("./node_modules/reveal.js/plugin/highlight/monokai.css");
 
 :root {
     /* Overrides for reveal.js */
