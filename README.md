@@ -12,6 +12,10 @@ These slides cover:
 * `align-content` for block containers
 * `lh` and `rlh`
 
+## GitHub Pages
+
+The slides can be found [here](https://liamnewmarch.github.io/css-lightning-talk/).
+
 ## Running the presentation
 
 ```sh
